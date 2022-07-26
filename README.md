@@ -19,10 +19,7 @@ meet new people.
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- My JAVA test automation skill
 
 ## 🌱 I'm currently learning
 
